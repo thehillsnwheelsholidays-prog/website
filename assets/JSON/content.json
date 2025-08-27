@@ -1,0 +1,187 @@
+{
+    "destinations": [
+        {
+            "name": "OOTY",
+            "images": [
+                "assets/bg/ooty1.jpeg",
+                "assets/bg/ooty2.webp",
+                "assets/bg/ooty3.webp",
+                "assets/bg/ooty4.webp",
+                "assets/bg/ooty5.jpg",
+                "assets/bg/ooty6.webp",
+                "assets/bg/ooty7.jpg",
+                "assets/bg/ooty8.jpg"
+            ],
+            "places": [
+                "Botanical garden, Rose garden, Tea factory, Chocolate factory, Thread garden, Lake, Dodabeta peak, Wax world"
+            ]
+        },
+        {
+            "name": "COONOOR",
+            "images": [
+                "assets/bg/coonoor1.jpg",
+                "assets/bg/coonoor2.jpg",
+                "assets/bg/coonoor3.jpg",
+                "assets/bg/coonoor4.jpg",
+                "assets/bg/coonoor5.jpeg",
+                "assets/bg/coonoor6.webp",
+                "assets/bg/coonoor7.jpg"
+            ],
+            "places": [
+                "Lams rock, Dolphins nose, Sims park, Valley View, MRC outer view, Tea garden"
+            ]
+        },
+        {
+            "name": "PYKARA",
+            "images": [
+                "assets/bg/pykara1.jpeg",
+                "assets/bg/pykara2.jpg",
+                "assets/bg/pykara3.jpeg",
+                "assets/bg/pykara4.jpg",
+                "assets/bg/pykara5.jpeg",
+                "assets/bg/pykara6.jpg"
+            ],
+            "places": [
+                "Golf View, Pine Forest, 8th Mile, Shooting Spot, Pykara Falls, Pykara Lake"
+            ]
+        },
+        {
+            "name": "MUDUMALAI",
+            "images": [
+                "assets/bg/mudumalai1.jpeg",
+                "assets/bg/mudumalai2.jpg",
+                "assets/bg/mudumalai3.jpg",
+                "assets/bg/mudumalai4.jpg",
+                "assets/bg/mudumalai5.jpg",
+                "assets/bg/mudumalai6.jpeg",
+                "assets/bg/mudumalai7.jpg"
+            ],
+            "places": [
+                "Mudumalai forest"
+            ]
+        },
+        {
+            "name": "AVALANCHE",
+            "images": [
+                "assets/bg/avalanche1.jpg",
+                "assets/bg/avalanche2.jpg",
+                "assets/bg/avalanche3.jpg",
+                "assets/bg/avalanche4.jpg"
+            ],
+            "places": [
+                "Cairn forest, Tribal museum, Emerald lake, Avalanche"
+            ]
+        }
+    ],
+    "Aboutdetails": {
+        "destinations": "100+",
+        "customers": "100+",
+        "hotels": "100+"
+    },
+    "extendedDestinations": [
+        {
+            "place": "Kochi",
+            "img": "assets/bg/others/kochin.jpeg",
+            "location": "Kerala"
+        },
+        {
+            "place": "Nandhi hills",
+            "img": "assets/bg/others/nandihills.jpeg",
+            "location": "Karnataka"
+        },
+        {
+            "place": "Chikmagalur",
+            "img": "assets/bg/others/chikmagalur.jpeg",
+            "location": "Karnataka"
+        },
+        {
+            "place": "vagaman",
+            "img": "assets/bg/others/vagamon.jpeg",
+            "location": "Kerala"
+        },
+        {
+            "place": "Coorg",
+            "img": "assets/bg/others/coorg.jpeg",
+            "location": "Karnataka"
+        },
+        {
+            "place": "Wayanad",
+            "img": "assets/bg/others/wayanad.jpeg",
+            "location": "Kerala"
+        },
+        {
+            "place": "Yelagiri hills",
+            "img": "assets/bg/others/yelagiri.jpeg",
+            "location": "Tamilnadu"
+        },
+        {
+            "place": "Bandipur",
+            "img": "assets/bg/others/bandipur.jpeg",
+            "location": "Karnataka"
+        }
+    ],
+    "package": [
+        {
+            "title": "Couple Package",
+            "content": "Escape together and rediscover spark. This romantic getaway is designed for two.",
+            "img": "assets/bg/Package/couple.jpg"
+        },
+        {
+            "title": "Family Package",
+            "content": "Unite the whole family for fun, laughter, and quality time. Perfect for multi-generational travel or just a much-needed family break.",
+            "img": "assets/bg/Package/family.jpg"
+        },
+        {
+            "title": "Group Package",
+            "content": "Build cohesion outside the boardroom. This package blends productive time with rewarding adventures.",
+            "img": "assets/bg/Package/group.jpg"
+        },
+        {
+            "title": "Team Package",
+            "content": "Embark on an unforgettable journey with your circle—friends, extended family, school groups, or clubs.",
+            "img": "assets/bg/Package/team.jpg"
+        }
+    ],
+    "dropLocation":[
+        {
+            "loc":"Coimbatore",
+            "subDetail":""
+        },
+        {
+            "loc":"Mettupalayam",
+            "subDetail":""
+        },
+        {
+            "loc":"Mysore",
+            "subDetail":""
+        },
+        {
+            "loc":"Banglore",
+            "subDetail":""
+        },
+        {
+            "loc":"Madikeri",
+            "subDetail":""
+        },
+        {
+            "loc":"Coorg",
+            "subDetail":"(Drop & side seen)"
+        },
+        {
+            "loc":"Kodaikanal",
+            "subDetail":"(Drop & side seen)"
+        },
+        {
+            "loc":"Munnar",
+            "subDetail":"(Drop & side seen)"
+        },
+        {
+            "loc":"Wayand",
+            "subDetail":"(Drop)"
+        },
+        {
+            "loc":"Kerala",
+            "subDetail":"(Drop)"
+        }
+    ]
+}
